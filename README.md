@@ -13,14 +13,17 @@ A command-line tool for creating simple graphs using Python.
 1. Clone the repository:
    ```bash
    git clone https://github.com/7-10-16/text2graph.git
+   ```
 
 2. Navigate into the new directory:
    ```bash
    cd text2graph
+   ```
 
 3. Make sure dependencies are installed:
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Usage:
 ### 📈 Line Graph:
