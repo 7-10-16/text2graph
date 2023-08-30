@@ -4,7 +4,7 @@ A command-line tool for creating graphs from text, made with Python.
 
 ## Features
 
-- Create line graphs and pie charts.
+- Create line graphs and pie charts (More types in the future).
 - Easily specify X-axis and Y-axis data.
 - Customize pie chart segments with labels.
 
@@ -76,6 +76,14 @@ When you run this command, the CLI will process the input, generate a pie chart 
 
 You can customize this command by changing the data points and labels to create different pie charts with different segment sizes and labels.
 </details>
+
+## Screenshots
+### Line Graph:
+![Line Graph Screenshot](images/line_graph_ex.png)
+
+### Pie Chart:
+![Pie chart Screenshot](images/pie_chart_ex.png)
+
 
 ## Contributing
 
