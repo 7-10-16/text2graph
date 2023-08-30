@@ -1,6 +1,6 @@
 # Text-2-Graph
 
-A command-line tool for creating simple graphs using Python.
+A command-line tool for creating graphs from text, made with Python.
 
 ## Features
 
